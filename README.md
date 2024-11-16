@@ -8,12 +8,25 @@ In a world where dungeons and monsters coexist with humanity, Hunters fight to p
 
 ### Memorable Moments
 
-1. The Double Dungeon Incident
+
+1. The Double Dungeon Incident *the start of everything*
 The event that changed everything for Jin-Woo.
 
 2. Formation of the Shadow Army
 Jin-Woo’s unique ability lets him summon shadows of defeated enemies.
 
-3. Climactic Final Battle
+3. Climactic Final Battle **favorite moment**
 A showdown that shakes the world.
 
+### Sung Jin-woo information during the mid arc of the series
+
+{
+  "Name": "Sung Jin-Woo",
+  "Level": 150,
+  "Class": "Shadow Monarch",
+  "Skills": ["Stealth", "Summon Shadows", "Monarch's Domain"]
+}
+
+:grin: :grin: :grin: :grin: :grin:
+
+==Waiting for season 2!==
